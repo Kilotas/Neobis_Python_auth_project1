@@ -4,7 +4,7 @@ Django Authentication Project
 Установка
 Клонируйте репозиторий:
 
-git clone https://github.com/Kilotas/Neobis_Python_auth_project1.git
+git clone -b master https://github.com/Kilotas/Neobis_Python_auth_project1.git
 cd myporject
 Создайте и активируйте виртуальное окружение:
 
